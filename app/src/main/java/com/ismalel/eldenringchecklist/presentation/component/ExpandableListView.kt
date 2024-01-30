@@ -29,7 +29,7 @@ import com.trimble.training.data.model.Section
 
 
 @Composable
-fun ExpandableList(sections: List<Section >) {
+fun ExpandableList(sections: List<Section   >) {
     val isExpandedMap = remember { List(sections.size) { index: Int -> index to true }
         .toMutableStateMap() }
     LazyColumn(
