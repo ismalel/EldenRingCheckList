@@ -29,3 +29,7 @@ y
 Iapp/src/main/java/com/ismalel/eldenringchecklist/EldenRingCheckListApp.kt,8/6/869827ab84cac672af1b3055aa22fbf08f75f74e
 Ç
 Rapp/src/main/java/com/ismalel/eldenringchecklist/di/repository/RepositoryModule.kt,6/3/63e680dd3f60e593dc7df32c260d4f2960fc7e6a
+>
+app/.gitignore,5/1/51e1c5d383dfaa35e0e7e5873a0a99355a86880f
+ç
+]app/src/main/java/com/ismalel/eldenringchecklist/presentation/component/ExpandableListView.kt,7/7/77f7f1e98e2ba18fde1e8288a51063af922e4d77
